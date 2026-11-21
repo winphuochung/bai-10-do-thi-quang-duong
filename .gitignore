@@ -1,0 +1,4 @@
+# Bỏ qua các thư mục cấu hình agent
+.agents/
+.agent/
+agents/
