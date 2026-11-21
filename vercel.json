@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Web_Hoc_Tap_KHTN7_Bai10.html"
+    }
+  ]
+}

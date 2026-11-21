@@ -1,0 +1,12 @@
+# Loại trừ các thư mục & tệp nội bộ khi deploy lên Vercel
+.git/
+.shared/
+agents/
+rules/
+scripts/
+skills/
+tasks/
+workflows/
+*.md
+Code.gs
+mcp_config.json
